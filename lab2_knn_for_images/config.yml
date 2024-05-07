@@ -1,0 +1,3 @@
+dataset: ./dataset
+neighbors: 5
+jobs: -1
